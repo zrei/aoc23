@@ -3,3 +3,5 @@
 
 # ignore all output files
 *.o
+
+.DS_Store
