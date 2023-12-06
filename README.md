@@ -15,3 +15,10 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 
 ## Day 4
 * Misunderstanding part 2 for an hour :<
+
+## Day 5
+* Learning to work with bigger numbers by using `unsigned int` and `unsigned long` to prevent overflow
+* Coming up with a strategy for part 2 and deciding to reverse engineer the ranges of seeds that correspond to ranges of locations, sorted by ascending location
+
+## Day 6
+* Learning to work with even larger numbers by using `long long` and `double` to prevent overflow
