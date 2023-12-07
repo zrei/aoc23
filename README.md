@@ -22,3 +22,6 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 
 ## Day 6
 * Learning to work with even larger numbers by using `long long` and `double` to prevent overflow
+
+## Day 7
+* Deciding to try out enums in cpp for the first time to represent the hand types
