@@ -25,3 +25,6 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 
 ## Day 7
 * Deciding to try out enums in cpp for the first time to represent the hand types
+
+## Day 8
+* Figuring out that I could use LCM for part 2
