@@ -28,3 +28,6 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 
 ## Day 8
 * Figuring out that I could use LCM for part 2
+
+## Day 9
+* Fairly simple day today! ^-^
