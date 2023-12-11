@@ -80,7 +80,7 @@ bool checkRow(int row) {
 }
 
 bool checkColumn(int col) {
-    for (int row = 0; row < graph.size(); row++) {
+    for (int row = 0; row < m; row++) {
         if (graph[row][col].isGalaxy)
             return false;
     }
@@ -89,14 +89,14 @@ bool checkColumn(int col) {
 
 void expandGraph() {
     std::vector<int> rowsToExpand = {};
-    for (int row = 0; row < graph.size(); row++) {
+    for (int row = 0; row < m; row++) {
         if (checkRow(row)) {
             for (int col = 0; col < n; col++) {
                 graph[row][col].addAdditionalVerticalDistance();
             }
         }
     }
-    for (int col = 0; col < graph[0].size(); col++) {
+    for (int col = 0; col < n; col++) {
         if (checkColumn(col)) {
             for (int row = 0; row < m; row++)
                 graph[row][col].addAdditionalHorizontalDistance();

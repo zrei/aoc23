@@ -46,8 +46,6 @@ int main(int argc, char* argv[]) {
             fillRowOfGraph(s);
         }
     }
-    //findGalaxies();
-    //galaxyCoordinates.clear();
     expandGraph();
     findGalaxies();
     printGraph();
