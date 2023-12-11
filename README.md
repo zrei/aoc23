@@ -34,3 +34,4 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 
 ## Day 10
 * Implementing BFS in cpp
+* Using structs to represent the tiles
