@@ -38,3 +38,16 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 
 ## Day 11
 * Being off-by-one and suffering for it :<
+
+## Day 12
+* Implementing memoisation in cpp
+* Getting stuck for a bit on the non-brute-force method for finding the number of possible combinations for a specific sequence because of stupid mistakes
+* More integer overflow
+* Got interrupted on this one due to a plane flight
+
+## Day 13
+* Will be overseas for the remaining days on holiday and doing these at night or on trains, let's see how it goes!
+* Relatively easy day today
+
+## Day 14
+* Finding the point at which the dish state repeats: a lot like getting stuck on these types of puzzles in old-school RPGs
