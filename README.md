@@ -53,5 +53,8 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 * Finding the point at which the dish state repeats: a lot like getting stuck on these types of puzzles in old-school RPGs
 
 ## Day 15
-* Doing this one while really tired, but it wasn't too bad
+* Doing this one while really tired, but it wasn't too bad (except for reading comprehension on part 2)
 * Forgot to reset the box number for a bit though
+
+## Day 16
+* More bfs
