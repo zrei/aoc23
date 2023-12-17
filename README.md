@@ -58,3 +58,9 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 
 ## Day 16
 * More bfs
+
+## Day 17
+* Implementing Dijkstra's in cpp 
+* Using the cpp priority queue
+* Using a struct as the key for a map
+* Failing on the memoisation for a bit
