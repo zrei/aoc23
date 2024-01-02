@@ -80,3 +80,7 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 ## Day 21
 * Did part 1 with bfs that memoised based on both coordinates and path length
 * For part 2, I optimised the bfs to memoise only based on coordinates since any point reached with an even number of steps remaining will be reachable by the end
+
+## Day 22
+* Mostly just brute forced part 1, though ran into a minor issue where I missed out some of the cases where a block can support another
+* Part 2 uses a traversal of the tower
