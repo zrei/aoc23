@@ -76,3 +76,7 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 ## Day 20
 * Did part 1 in an OOP manner with polymorphism by representing each module type as a child class of a module parent class
 * Tried brute forcing part 2 for a bit before learning that I had to use LCM
+
+## Day 21
+* Did part 1 with bfs that memoised based on both coordinates and path length
+* For part 2, I optimised the bfs to memoise only based on coordinates since any point reached with an even number of steps remaining will be reachable by the end
