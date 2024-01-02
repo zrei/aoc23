@@ -82,7 +82,7 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 * For part 2, I optimised the bfs to memoise only based on coordinates since any point reached with an even number of steps remaining will be reachable by the end
 
 ## Day 22
-* Mostly just brute forced part 1, though ran into a minor issue where I missed out some of the cases where a block can support another
+* Mostly just brute forced part 1, though I ran into a minor issue where I missed out some of the cases where a block can support another
 * Part 2 uses a traversal of the tower
 
 ## Day 23
@@ -90,8 +90,16 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 * For part 2, all junctions were found and DFS between the entrance to the exit through these junctions were done
 
 ## Day 24
-* Part 1 just involved formulating a simple two unknown, two equation simultaenous equation and solving it
-* For part 2, I learned how to use Z3 with cpp to solve the more complicated simultaenous equations
+* Part 1 just involved formulating a simple two unknown, two equation simultaneous equation and solving it
+* For part 2, I learned how to use Z3 with cpp to solve the more complicated simultaneous equations
 
 ## Day 25
 * Learned how to implement Karger's (Had learned the algo in class before but never used it practically)
+
+![end](img/end.png)
+
+I took an additional four days after Christmas to complete AOC'23, but I managed to finish all parts before my flight back home :D<br/>
+I didn't have enough time to keep up doing both Python and cpp versions, so for most days I ended up doing only the cpp version since I'm trying to learn how to use cpp.<br/>
+I learned a lot about cpp syntax and things specific to the language, so this was a great learning experience and it was fairly fun as well, even if I got stumped on a lot of the later days and had to consult the subreddit for hints.
+
+Hopefully I'll get to do AOC'24 too!
