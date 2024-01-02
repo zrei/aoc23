@@ -92,3 +92,6 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 ## Day 24
 * Part 1 just involved formulating a simple two unknown, two equation simultaenous equation and solving it
 * For part 2, I learned how to use Z3 with cpp to solve the more complicated simultaenous equations
+
+## Day 25
+* Learned how to implement Karger's (Had learned the algo in class before but never used it practically)
