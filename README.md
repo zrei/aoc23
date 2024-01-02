@@ -84,3 +84,7 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 ## Day 22
 * Mostly just brute forced part 1, though ran into a minor issue where I missed out some of the cases where a block can support another
 * Part 2 uses a traversal of the tower
+
+## Day 23
+* Part 1 used BFS and noted the direction a tile was entered from to prevent loops
+* For part 2, all junctions were found and DFS between the entrance to the exit through these junctions were done
