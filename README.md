@@ -64,3 +64,7 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 * Using the cpp priority queue
 * Using a struct as the key for a map
 * Failing on the memoisation for a bit
+
+## Day 18
+* Optimising my solution for part 1 so it could run for part 2 by using a priority queue
+* There's an easier mathematical solution T_T
