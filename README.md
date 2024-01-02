@@ -88,3 +88,7 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 ## Day 23
 * Part 1 used BFS and noted the direction a tile was entered from to prevent loops
 * For part 2, all junctions were found and DFS between the entrance to the exit through these junctions were done
+
+## Day 24
+* Part 1 just involved formulating a simple two unknown, two equation simultaenous equation and solving it
+* For part 2, I learned how to use Z3 with cpp to solve the more complicated simultaenous equations
