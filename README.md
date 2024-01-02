@@ -68,3 +68,11 @@ Attempts for AOC 2023. Code is done first in CPP for practice, and then done in 
 ## Day 18
 * Optimising my solution for part 1 so it could run for part 2 by using a priority queue
 * There's an easier mathematical solution T_T
+
+## Day 19
+* Tried to do it in a more OOP manner by using structs to represent the parts
+* Had a bit of a problem with part 2 initially as I wasn't aware the ranges for each individual part do not overlap
+
+## Day 20
+* Did part 1 in an OOP manner with polymorphism by representing each module type as a child class of a module parent class
+* Tried brute forcing part 2 for a bit before learning that I had to use LCM
